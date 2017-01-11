@@ -2,6 +2,7 @@
 bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Education
+
 ### University of Toronto, BSc - Honours Physics
 * Specialization in Quantum Field Theory
 
@@ -18,6 +19,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Due diligence for acquisitions
 
 ## Experience
+
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
 * September 2007 – Present (9 years 2 months)
 * Tech Lead Manager - Managing a team of O(30) engineers
