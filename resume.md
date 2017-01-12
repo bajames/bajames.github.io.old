@@ -24,19 +24,19 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * September 2007 – Present (9 years 2 months)
 * Tech Lead Manager - Managing a team of O(30) engineers
 * Google Assistant - natural language voice assistant
-    * TLM Assistant 3P Developer Platform ([Actions on Google](https://developers.google.com/actions/))
-    * TLM [Smart Home](https://madeby.google.com/home/features/#?filters=entertainment,answers,manage,plan,fun,home&feature=control-your-home9) / [IFTTT Integration](https://ifttt.com/google_assistant)
-    * TLM for New Device Integrations / Android Auto Voice
-    * 3P Integrations ([Messaging](https://www.engadget.com/2015/07/28/android-voice-commands-for-messaging-apps/), OpenTable, Nest, Uber, [Android APIs](https://developers.google.com/voice-actions/system/))
-    * Android [Voice Interaction API](https://developers.google.com/voice-actions/interaction/) ([video](https://www.youtube.com/watch?v=OW1A4XFRuyc), [talk at Ubiquity conference](https://www.youtube.com/watch?v=mgudsc-Z468))
-    * [In App Voice Search](http://android-developers.blogspot.com/2014/10/the-fastest-route-between-voice-search.html)
+    - TLM Assistant 3P Developer Platform ([Actions on Google](https://developers.google.com/actions/))
+    - TLM [Smart Home](https://madeby.google.com/home/features/#?filters=entertainment,answers,manage,plan,fun,home&feature=control-your-home9) / [IFTTT Integration](https://ifttt.com/google_assistant)
+    - TLM for New Device Integrations / Android Auto Voice
+    - 3P Integrations ([Messaging](https://www.engadget.com/2015/07/28/android-voice-commands-for-messaging-apps/), OpenTable, Nest, Uber, [Android APIs](https://developers.google.com/voice-actions/system/))
+    - Android [Voice Interaction API](https://developers.google.com/voice-actions/interaction/) ([video](https://www.youtube.com/watch?v=OW1A4XFRuyc), [talk at Ubiquity conference](https://www.youtube.com/watch?v=mgudsc-Z468))
+    - [In App Voice Search](http://android-developers.blogspot.com/2014/10/the-fastest-route-between-voice-search.html)
 * Previously:
-    * Travel - photo and attraction ranking for [Google Destinations](https://www.google.com/destination/compare?q=usa+destinations&espv=2&biw=1436&bih=803&site=search&output=search&dest_mid=/m/09c7w0&sa=X&ved=0ahUKEwj8oeah59HPAhUW12MKHXXeB7YQ6tEBCCsoBTAA)
-    * Authorization and Access control infrastructure for YouTube, Google+, Google Apps sharing
-    * Java Experiments Framework
-    * Tech lead Google Sites
-    * Google For Work / Google Calendar / Google Gadgets
-    * Hiring committee member / 150+ interviews / Promotion committee
+    - Travel - photo and attraction ranking for [Google Destinations](https://www.google.com/destination/compare?q=usa+destinations&espv=2&biw=1436&bih=803&site=search&output=search&dest_mid=/m/09c7w0&sa=X&ved=0ahUKEwj8oeah59HPAhUW12MKHXXeB7YQ6tEBCCsoBTAA)
+    - Authorization and Access control infrastructure for YouTube, Google+, Google Apps sharing
+    - Java Experiments Framework
+    - Tech lead Google Sites
+    - Google For Work / Google Calendar / Google Gadgets
+    - Hiring committee member / 175+ interviews / Promotion committee
     * Operations experience running large scale services
 
 ### Adobe Systems - Senior Computer Scientist / Tech Lead
