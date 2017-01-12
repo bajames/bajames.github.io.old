@@ -24,6 +24,7 @@
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
 
 #### September 2007 – Present
+
 * Tech Lead Manager - Managing a team of 30+ engineers / TLMs
 * Google Assistant - natural language voice assistant
     * TLM Assistant 3P Developer Platform ([Actions on Google](https://developers.google.com/actions/))
@@ -44,6 +45,7 @@
 ### Adobe Systems - Senior Computer Scientist / Tech Lead
 
 #### September 2001 - September 2007
+
 * Adobe AIR 1.0 - Lead for networking / notifications / multi-monitor support (Top 10 Emerging Technologies of 2008 / MIT Technology Review)
 * Tech lead for Acrobat Collaboration
   * Shared Review - collaborative document review workflow using simple network file sharing
@@ -55,6 +57,7 @@
 ### CoVia Technologies / Principle Engineer
 
 #### April 2000 – September 2001
+
 * Intranet workspaces built in C++ / Java / Server-side Javascript and OODBMS
 * Calendar application
 * Batch scheduling system
@@ -64,6 +67,7 @@
 ### Caere Corp (Nuance) / Staff Software Engineer
 
 ####  July 1996 – April 2000
+
 * Optical Character Recognition (OCR) - Core Technologies group
 * Tech lead for Omnipage Pro 10.0 OCR Engine
 * Page layout recognition for Omnipage 8.0, 9.0, 10.0
@@ -73,10 +77,13 @@
 ### Cognos Corp (IBM) / Software Engineer + Intern
 
 #### May 1991 – September 1995 (4 years 5 months)
+
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
 ## Patents
+
 ### Issued:
+
 * Searching a database of selected and associated resources / United States 8,190,602
 * Distributed computing document recognition and processing / United States 6,742,161
 * Method and apparatus for customizing presentation of notification lists / United States 8,244,796
@@ -87,10 +94,12 @@
 * Document-authorized access to a shared workspace Various embodiments / United States 9,491,150
 
 ### Applications:
+
 * Intermittent connectivity tolerant replicated document collaboration workspaces / United States US 20140032500 A1
 * Destination and point of interest search / United States US 20140279261 A1
 
 ## Citizenship:
+
 * United States
 * Canada
 * United Kingdom
