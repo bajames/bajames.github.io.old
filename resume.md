@@ -4,7 +4,7 @@
 ## Education
 
 ### University of Toronto, BSc - Honours Physics
-* Specialization in Quantum Field Theory
+* Specialization in particle physics
 
 ## Skills
 * Managing a team of 30+ engineers
@@ -22,6 +22,7 @@
 ## Experience
 
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
+
 #### September 2007 – Present
 * Tech Lead Manager - Managing a team of 30+ engineers / TLMs
 * Google Assistant - natural language voice assistant
@@ -41,6 +42,7 @@
     * Operations experience running large scale services
 
 ### Adobe Systems - Senior Computer Scientist / Tech Lead
+
 #### September 2001 - September 2007
 * Adobe AIR 1.0 - Lead for networking / notifications / multi-monitor support (Top 10 Emerging Technologies of 2008 / MIT Technology Review)
 * Tech lead for Acrobat Collaboration
@@ -51,6 +53,7 @@
 * 20% - RSS feed service (filtering, splicing, aggregation)
 
 ### CoVia Technologies / Principle Engineer
+
 #### April 2000 – September 2001
 * Intranet workspaces built in C++ / Java / Server-side Javascript and OODBMS
 * Calendar application
@@ -58,7 +61,8 @@
 * Subscription credit card billing system
 * Migration from server-side javascript to Java
 
-### Caere Corp (now Nuance) / Staff Software Engineer
+### Caere Corp (Nuance) / Staff Software Engineer
+
 ####  July 1996 – April 2000
 * Optical Character Recognition (OCR) - Core Technologies group
 * Tech lead for Omnipage Pro 10.0 OCR Engine
@@ -66,7 +70,8 @@
 * Noise removal, layout rendering and quality evaluation
 * Built online OCR service
 
-### Cognos Corp (now IBM) / Software Engineer + Intern
+### Cognos Corp (IBM) / Software Engineer + Intern
+
 #### May 1991 – September 1995 (4 years 5 months)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
